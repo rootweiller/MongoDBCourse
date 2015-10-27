@@ -1,2 +1,2 @@
 # MongoDBCourse
-University MongoDb exerxises
+University MongoDb exercises
